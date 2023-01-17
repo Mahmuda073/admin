@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699058492133",
+    "project_id": "mini-alert-app",
+    "storage_bucket": "mini-alert-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699058492133:android:fb5cff4adf730af7daba0c",
+        "android_client_info": {
+          "package_name": "com.example.minialertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699058492133-02kj4nmnrq3gfqcms4kjv27nktiras1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdBj0hEu5zzJDYKzQBRF_208nDUodcpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699058492133-02kj4nmnrq3gfqcms4kjv27nktiras1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
